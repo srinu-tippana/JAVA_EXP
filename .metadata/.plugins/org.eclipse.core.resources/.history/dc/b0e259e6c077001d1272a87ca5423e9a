@@ -1,0 +1,14 @@
+package com.enhance.collections;
+import java.util.*;
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Test al1 = new Test();
+		Test<String> list=new Test<String>();
+		
+
+	}
+
+}

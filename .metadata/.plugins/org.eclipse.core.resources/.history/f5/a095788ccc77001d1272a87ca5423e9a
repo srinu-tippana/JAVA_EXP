@@ -1,0 +1,21 @@
+package com.enhance.collections;
+
+class Book
+{
+	int id;
+	String name;
+	int quantity;
+	
+	
+}
+
+public class LinkedListExample {
+
+	public static void main(String[] args) {
+		
+		LinkedList<Book> list = new LinkedList<Book>();
+		
+
+	}
+
+}

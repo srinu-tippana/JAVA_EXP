@@ -1,0 +1,27 @@
+package com.enhance.collections;
+import java.util.*;
+public class TestLinkedList {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		LinkedList<String> list = new LinkedList<String>();
+		
+		list.add("Ravi");
+		list.add("Vijay");
+		list.add("Ajay");  
+        list.add("Anuj");  
+        list.add("Gaurav");  
+        list.add("Harsh");  
+        list.add("Virat");  
+        list.add("Gaurav");  
+        list.add("Harsh");  
+        list.add("Amit");  
+        list.remove("Vijay");
+        
+        
+		
+
+	}
+
+}

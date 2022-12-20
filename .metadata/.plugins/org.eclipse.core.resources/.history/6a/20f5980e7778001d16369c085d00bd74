@@ -1,0 +1,16 @@
+package com.enhance.collections;
+
+import java.util.HashSet;
+
+public class HashSetExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		HashSet<String> set = new HashSet<String>();
+		set.add("One");
+		set.add("Two");
+
+	}
+
+}

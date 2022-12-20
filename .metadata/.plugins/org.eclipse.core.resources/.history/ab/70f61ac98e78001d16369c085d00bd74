@@ -1,0 +1,20 @@
+package com.enhance.collections;
+
+import java.util.TreeSet;
+
+class BookSet{
+	
+	int id;
+	String name;
+	
+}
+public class TreeSetComparable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		TreeSet<BookSet> treeSet = new TreeSet();
+
+	}
+
+}

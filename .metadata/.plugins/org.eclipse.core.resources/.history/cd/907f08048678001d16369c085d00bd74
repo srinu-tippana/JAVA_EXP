@@ -1,0 +1,20 @@
+package com.enhance.collections;
+
+import java.util.Iterator;
+import java.util.TreeSet;
+
+public class TreeSetExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		TreeSet<String> treeSet = new TreeSet<String>();
+		
+		treeSet.add("Ravi");
+		treeSet.add("Vijay");
+	     
+		Iterator itr= treeSet.iterator();
+		
+	}
+
+}

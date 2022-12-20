@@ -1,0 +1,31 @@
+package com.enhance.collections;
+
+import java.util.TreeSet;
+
+class BookSet{
+	
+	int id;
+	String name;
+	public BookSet(int id, String name) {
+		super();
+		this.id = id;
+		this.name = name;
+	}
+	
+	
+	
+}
+public class TreeSetComparable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		TreeSet<BookSet> treeSet = new TreeSet<BookSet>();
+		
+		BookSet b1 = new BookSet(1,"Java");
+		BookSet b2 = new BookSet(2,"C");
+		
+
+	}
+
+}

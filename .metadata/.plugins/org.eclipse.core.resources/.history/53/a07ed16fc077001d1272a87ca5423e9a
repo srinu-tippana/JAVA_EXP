@@ -1,0 +1,12 @@
+package com.enhance.collections;
+
+public class ArrayList {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		ArrayList<String> al1 = new ArrayList<String>();
+
+	}
+
+}
